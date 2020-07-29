@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterbossdemo/app/component/icon_tab.dart';
+import 'app/component/icon_tab.dart';
 import 'package:flutterbossdemo/app/view/company_view.dart';
 import 'package:flutterbossdemo/app/view/messages_view.dart';
 import 'package:flutterbossdemo/app/view/mine_view.dart';
